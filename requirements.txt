@@ -4,3 +4,5 @@ pandas
 voila
 plotly
 gunicorn
+voila
+ipywidgets
