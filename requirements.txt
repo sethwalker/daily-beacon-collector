@@ -3,3 +3,4 @@ jupyterlab
 pandas
 voila
 plotly
+gunicorn
