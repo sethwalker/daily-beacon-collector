@@ -1,0 +1,24 @@
+# Installation
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Running the collector
+```
+flask run
+```
+
+## Deploying to fly.io
+
+Create an account on fly.io, then:
+
+```
+brew install flyctl
+
+flyctl launch
+
+flyctl deploy
+```
